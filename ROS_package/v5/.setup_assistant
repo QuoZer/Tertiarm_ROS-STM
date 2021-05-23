@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: tertiarm_v5
+    relative_path: urdf/tertiarm_v5.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/tertiarm_v5.srdf
+  CONFIG:
+    author_name: Qu0Z
+    author_email: quoz@ros.com
+    generated_timestamp: 1621773809
